@@ -2,9 +2,9 @@
 
 <h2>About the project</h2>
 
-<p><b>Decryptor</b> is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies. <br/>
+<p><b>Decryptor</b> is a cryptocurrency and coin details website, where we provide a comprehensive database of cryptocurrencies and their details, including market value and key features. Our website is designed to give you all the information you need to make informed decisions about buying, selling, and trading cryptocurrencies. We strive to keep our data up-to-date and accurate, so you can trust the information you find here. Whether you're a seasoned investor or just getting started, our website is your go-to resource for all things crypto. Join our community today and stay ahead of the curve! <br/>
 
-The website is connected to the Coingecko API, which is a popular source of data for cryptocurrency information. Coingecko provides data on thousands of cryptocurrencies, including their current price, historical price data, trading volume, market cap, and other important metrics. By using this API, the website can provide users with real-time information about the latest cryptocurrency prices and market trends.
+The website is connected to the Coingecko API, which is a popular source of data for cryptocurrency information. CoinGecko provides a fundamental analysis of the crypto market. In addition to tracking price, volume and market capitalisation, CoinGecko tracks community growth, open-source code development, major events and on-chain metrics.
 </p>
 
 👉 Live Demo: <a href='https://decryptor-crypto-search.vercel.app/'>Decryptor Demo</a>
@@ -14,22 +14,4 @@ The website is connected to the Coingecko API, which is a popular source of data
 » React JS <br>
 » SCSS  <br>
 » Coingecko API <br>
-
-<br>
-
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/220608661-496fee0b-740a-476f-afa5-be9889c3c798.png'/>
-
-</div>
-
-<br><br>
-
-<h3 align='center'>Coin Page 🪙</h3>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/220609015-e64cb000-b8d2-41ce-8a9a-e610d2f1ae5b.png'/>
 </div>
